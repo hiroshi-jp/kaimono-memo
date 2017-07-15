@@ -18,7 +18,7 @@ Happy coding!
 The Cloud9 IDE team
 
 編集したよ！
-aaaaa
+ぷるりくだよねー
 
 ## Support & Documentation
 
